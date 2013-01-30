@@ -1,4 +1,4 @@
 Android-Programming-Homework
 ============================
 
-These area the class work from the Android Programming Class.
+These are the class work from the Android Programming Class.
